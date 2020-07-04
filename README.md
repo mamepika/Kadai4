@@ -7,5 +7,5 @@
 kadai4.shをテストするテスト用シェルスクリプト
 
 ## .travis.yml
-Travis CI用のymlファイル 
-テストを実施する
+Travis CI用のymlファイル   
+テストを実施し、結果を表示する
