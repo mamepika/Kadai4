@@ -1,5 +1,6 @@
 language:bash
 script:
-        - echo "kadai4"
-        - ./kadai4_test.sh
+    - echo "kadai4"
+    - echo "Start test script!!"
+    - ./kadai4_test.sh
 
